@@ -1,4 +1,4 @@
-# Final Paper - Sentiment Analysis of Online Transportation App Reviews
+# Sentiment Analysis of Online Transportation App Reviews
 
 This project analyzes user reviews from the Google Play Store for three ride-hailing applications: Uber, Lyft, and Bolt. The goal is to extract sentiment information from user reviews and evaluate how well automatic sentiment analysis aligns with user ratings.
 
